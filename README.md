@@ -1,3 +1,5 @@
+![Magpy logo](Magpy_logo.webp)
+
 # 🪶 Magpy-SSG
 
 **Magpy** is a lightweight, Python-based **Static Site Generator (SSG)** designed for simplicity, flexibility, and performance.  
@@ -20,7 +22,7 @@ It turns Markdown and TOML content into static HTML websites, with built-in supp
 
 ## 📄 License
 
-MIT License © 2025 — Created by moontommy
+MIT License © 2025 — Created by moontommy  
 Feel free to modify, distribute, or contribute!
 
 ---
